@@ -6,4 +6,3 @@ echo "What's your name?"
 echo "Hello back, $name"
 
 echo "Jenkins.script"
-
